@@ -1,0 +1,3 @@
+/home/student/Documents/itesm/industrial/point/build/CMakeFiles/rebuild_cache.dir
+/home/student/Documents/itesm/industrial/point/build/CMakeFiles/edit_cache.dir
+/home/student/Documents/itesm/industrial/point/build/CMakeFiles/point_exe.dir

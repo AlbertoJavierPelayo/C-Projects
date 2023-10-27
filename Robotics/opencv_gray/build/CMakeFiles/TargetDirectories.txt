@@ -1,0 +1,3 @@
+/home/alberto/Documentos/itesm/industrial/opencv_gray/build/CMakeFiles/rebuild_cache.dir
+/home/alberto/Documentos/itesm/industrial/opencv_gray/build/CMakeFiles/edit_cache.dir
+/home/alberto/Documentos/itesm/industrial/opencv_gray/build/CMakeFiles/img_gray.dir

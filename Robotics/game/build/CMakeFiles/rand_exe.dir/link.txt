@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rand_exe.dir/src/main.cpp.o  -o rand_exe 

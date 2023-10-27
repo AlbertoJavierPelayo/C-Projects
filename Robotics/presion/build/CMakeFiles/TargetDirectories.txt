@@ -1,0 +1,3 @@
+/home/student/Documents/itesm/industrial/presion/build/CMakeFiles/rebuild_cache.dir
+/home/student/Documents/itesm/industrial/presion/build/CMakeFiles/edit_cache.dir
+/home/student/Documents/itesm/industrial/presion/build/CMakeFiles/presion_exe.dir

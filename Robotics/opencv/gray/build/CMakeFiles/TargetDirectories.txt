@@ -1,0 +1,3 @@
+/home/jorgem/Documents/Industrial/opencv/gray/build/CMakeFiles/rebuild_cache.dir
+/home/jorgem/Documents/Industrial/opencv/gray/build/CMakeFiles/edit_cache.dir
+/home/jorgem/Documents/Industrial/opencv/gray/build/CMakeFiles/img_gray.dir

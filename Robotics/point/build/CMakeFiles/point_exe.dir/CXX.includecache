@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/point.h
+
+/home/student/Documents/itesm/industrial/point/src/main.cpp
+point.h
+-
+iostream
+-
+
+/home/student/Documents/itesm/industrial/point/src/point.cpp
+point.h
+/home/student/Documents/itesm/industrial/point/src/point.h
+cmath
+-
+iostream
+-
+point.h
+-
+

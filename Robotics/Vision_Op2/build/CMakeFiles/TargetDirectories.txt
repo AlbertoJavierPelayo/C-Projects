@@ -1,0 +1,3 @@
+/home/alberto/Documentos/itesm/industrial/Vision_Op2/build/CMakeFiles/rebuild_cache.dir
+/home/alberto/Documentos/itesm/industrial/Vision_Op2/build/CMakeFiles/edit_cache.dir
+/home/alberto/Documentos/itesm/industrial/Vision_Op2/build/CMakeFiles/Vision_Op2.dir
